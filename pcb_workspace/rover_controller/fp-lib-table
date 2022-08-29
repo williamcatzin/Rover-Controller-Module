@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "rover_controller")(type "KiCad")(uri "/home/williamcatzin/Rover/PCB_Workspace/rover_controller/rover_controller.pretty")(options "")(descr ""))
+  (lib (name "graphics_logo")(type "KiCad")(uri "/home/williamcatzin/Rover/PCB_Workspace/rover_controller/graphics.pretty")(options "")(descr ""))
+)

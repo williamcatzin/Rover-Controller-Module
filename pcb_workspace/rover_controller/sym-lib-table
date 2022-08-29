@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "rover_symbol_library")(type "KiCad")(uri "/home/williamcatzin/Rover/PCB_Workspace/rover_controller/rover_symbol_library.kicad_sym")(options "")(descr ""))
+)
